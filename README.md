@@ -1,1 +1,2 @@
-# sqliteDBpython
+# 
+Working sqlite database with python
